@@ -1,0 +1,194 @@
+Dependencies for Project 'project1_01', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\tm4c123gh6pm.h)(0x5388606A)()
+F (.\main.c)(0x5EBE3E78)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (tm4c123gh6pm.h)(0x5388606A)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_memmap.h)(0x5E77EBA5)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_gpio.h)(0x5E77EBA5)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_types.h)(0x5E77EBA6)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/gpio.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/pin_map.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/sysctl.h)(0x5E77EB9F)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/rom.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/uart.h)(0x5E77EB9F)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\utils/uartstdio.h)(0x5E77EBDF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5D9B267A)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\queue.h)(0x5DE7412E)
+F (.\uartstdio.c)(0x5EBA69C9)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\uartstdio.o --omf_browse .\objects\uartstdio.crf --depend .\objects\uartstdio.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5D9B267A)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_ints.h)(0x5E77EBA5)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_memmap.h)(0x5E77EBA5)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_types.h)(0x5E77EBA6)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\inc/hw_uart.h)(0x5E77EBA6)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/debug.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/interrupt.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/rom.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/rom_map.h)(0x5E77EB9E)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/sysctl.h)(0x5E77EB9F)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib/uart.h)(0x5E77EB9F)
+I (..\..\..\Downloads\tiva-c-master\tiva-c-master\utils/uartstdio.h)(0x5E77EBDF)
+F (..\..\..\Downloads\tiva-c-master\tiva-c-master\driverlib\rvmdk\driverlib.lib)(0x5E77EB9F)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6E406)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550A65DA)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25E516)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25E516)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25E516)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25E516)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FA234)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Source\freertos_evr.c)(0x5D8845D4)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\freertos_evr.o --omf_browse .\objects\freertos_evr.crf --depend .\objects\freertos_evr.d)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\semphr.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\queue.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\event_groups.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\timers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\stream_buffer.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\list.c)(0x5DE7412E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B267A)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\MemMang\heap_4.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\heap_4.o --omf_browse .\objects\heap_4.crf --depend .\objects\heap_4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B267A)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\port.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\queue.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B267A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\queue.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\stream_buffer.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\stream_buffer.o --omf_browse .\objects\stream_buffer.crf --depend .\objects\stream_buffer.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\stream_buffer.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\tasks.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B267A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\timers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\stack_macros.h)(0x5DE7412E)
+F (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\timers.c)(0x5DE74130)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\Downloads\tiva-c-master\tiva-c-master-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hossa\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B267A)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\FreeRTOS.h)(0x5DE7412E)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5D9B2678)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5D8845D4)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B2678)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5EBD070B)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\projdefs.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\portable.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\deprecated_definitions.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5DE74130)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\mpu_wrappers.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\task.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\list.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\queue.h)(0x5DE7412E)
+I (C:\Users\hossa\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.3.0\Source\include\timers.h)(0x5DE7412E)
+F (RTE\RTOS\FreeRTOSConfig.h)(0x5EBE26FE)()
